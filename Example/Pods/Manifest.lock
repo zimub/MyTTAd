@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (5.10.2)
   - CleanJSON (1.0.9)
-  - MyTTAd (1.0.5):
+  - MyTTAd (1.0.6):
     - Alamofire
     - SnapKit
   - SnapKit (5.6.0)
@@ -23,9 +23,9 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
   CleanJSON: 910a36465ce4829e264a902ccf6d1455fdd9f980
-  MyTTAd: d85519038cc6061bb3cacc5672d9391ed31b9baf
+  MyTTAd: 4714f8dfb29bb2f3cc96b647954ebbb44fee3721
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
 
-PODFILE CHECKSUM: 3bdf9684193cc5b56019c69182f6d4edd5eae972
+PODFILE CHECKSUM: 42a918ce0af59c674d8e3a8996ad22e3e185714d
 
 COCOAPODS: 1.16.2

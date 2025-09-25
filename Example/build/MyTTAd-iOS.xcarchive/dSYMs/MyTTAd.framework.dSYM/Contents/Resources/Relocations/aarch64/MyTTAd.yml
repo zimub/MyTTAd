@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ttwj/Library/Developer/Xcode/DerivedData/MyTTAd-almitcdknuwzymfpuryenkahipab/Build/Intermediates.noindex/ArchiveIntermediates/MyTTAd/InstallationBuildProductsLocation/Library/Frameworks/MyTTAd.framework/MyTTAd'
+relocations:
+  - { offset: 0x5AD25, size: 0x8, addend: 0x0, symName: _MyTTAdVersionString, symObjAddr: 0x0, symBinAddr: 0x6298, symSize: 0x0 }
+  - { offset: 0x5AD5A, size: 0x8, addend: 0x0, symName: _MyTTAdVersionNumber, symObjAddr: 0x28, symBinAddr: 0x62C0, symSize: 0x0 }
+  - { offset: 0x5AD9B, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x28 }
+  - { offset: 0x5ADBF, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerC6sharedACvpZ', symObjAddr: 0x1A0, symBinAddr: 0x8428, symSize: 0x0 }
+  - { offset: 0x5AE6A, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x28 }
+  - { offset: 0x5AEA3, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerCMa', symObjAddr: 0x88, symBinAddr: 0x4084, symSize: 0x20 }
+  - { offset: 0x5AEE6, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerC6sharedACvgZ', symObjAddr: 0x28, symBinAddr: 0x4028, symSize: 0x40 }
+  - { offset: 0x5AF3F, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerC04loadC04with10completionySS_ys6ResultOySSs5Error_pGctF', symObjAddr: 0x68, symBinAddr: 0x4068, symSize: 0x4 }
+  - { offset: 0x5AF78, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerCfd', symObjAddr: 0x70, symBinAddr: 0x406C, symSize: 0x8 }
+  - { offset: 0x5AF9D, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9AdManagerCfD', symObjAddr: 0x78, symBinAddr: 0x4074, symSize: 0x10 }
+  - { offset: 0x5B0B2, size: 0x8, addend: 0x0, symName: '_$s6MyTTAd9ReplaceMeCMa', symObjAddr: 0x1C, symBinAddr: 0x40C8, symSize: 0x20 }
+...

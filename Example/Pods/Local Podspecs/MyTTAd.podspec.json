@@ -1,8 +1,8 @@
 {
   "name": "MyTTAd",
-  "version": "1.0.5",
-  "summary": "A short description of MyTTAd.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "1.0.6",
+  "summary": "介绍要整改详细，不要英文简单的说明",
+  "description": "这里不要有土豆啊，验证不过去，详细点",
   "homepage": "https://github.com/zimub/MyTTAd",
   "license": {
     "type": "MIT",
@@ -13,12 +13,32 @@
   },
   "source": {
     "git": "https://github.com/zimub/MyTTAd.git",
-    "tag": "1.0.5"
+    "tag": "1.0.6"
   },
   "platforms": {
     "ios": "12.0"
   },
   "source_files": "MyTTAd/Classes/**/*",
+  "swift_versions": [
+    "5.0",
+    "6.0"
+  ],
+  "pod_target_xcconfig": {
+    "VALID_ARCHS": "x86_64 arm64",
+    "ARCHS": "x86_64 arm64",
+    "EXCLUDED_ARCHS[sdk=iphoneos*]": "armv7 armv7s",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "armv7 armv7s i386"
+  },
+  "user_target_xcconfig": {
+    "VALID_ARCHS": "x86_64 arm64",
+    "EXCLUDED_ARCHS[sdk=iphoneos*]": "armv7 armv7s",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "armv7 armv7s i386"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CoreGraphics"
+  ],
   "dependencies": {
     "Alamofire": [
 
@@ -27,9 +47,5 @@
 
     ]
   },
-  "swift_versions": [
-    "5.0",
-    "6.0"
-  ],
   "swift_version": "6.0"
 }
