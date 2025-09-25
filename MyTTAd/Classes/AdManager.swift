@@ -19,7 +19,7 @@ import Alamofire
 import SnapKit
 
 public class AdManager {
-    public static let shared = AdManager()
+    nonisolated(unsafe) public static let shared = AdManager()
     
     private init() {}
     
