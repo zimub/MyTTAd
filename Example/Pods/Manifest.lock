@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.10.2)
+  - MyTTAd (1.0.5):
+    - Alamofire
+    - SnapKit
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MyTTAd (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SnapKit
+
+EXTERNAL SOURCES:
+  MyTTAd:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  MyTTAd: 276c653e847fc18702c685d9d321624075e2bad8
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 13333d1260f829e7993a753516323f3027f77dbb
+
+COCOAPODS: 1.16.2

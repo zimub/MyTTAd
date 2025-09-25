@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MyTTAd_Example' do
+  pod 'MyTTAd', :path => '../'
+
+  target 'MyTTAd_Tests' do
+    inherit! :search_paths
+
+    pod 'Alamofire'
+  end
+end

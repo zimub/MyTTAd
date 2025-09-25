@@ -1,0 +1,6 @@
+framework module MyTTAd {
+  umbrella header "MyTTAd-umbrella.h"
+
+  export *
+  module * { export * }
+}
