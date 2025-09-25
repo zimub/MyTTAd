@@ -28,11 +28,12 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/zimub/MyTTAd.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '12.0'
 #  s.vendored_frameworks = 'MyTTAd.framework'
   s.source_files = 'MyTTAd/Classes/**/*'
   s.dependency 'Alamofire'
   s.dependency 'SnapKit'
+  s.swift_versions = ['5.0', '6.0'] # 修正：正确的键名是 swift_versions
   # s.resource_bundles = {
   #   'MyTTAd' => ['MyTTAd/Assets/*.png']
   # }
