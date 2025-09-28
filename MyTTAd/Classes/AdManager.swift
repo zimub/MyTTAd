@@ -30,4 +30,8 @@ open class AdManager {
     open func comeOnWriteCode(){
         
     }
+    
+    public func nonoIdontKnow() {
+        print("这个版本是1.0.8")
+    }
 }
