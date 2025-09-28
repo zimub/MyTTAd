@@ -1,0 +1,240 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MyTTAd",
+    "printedName": "MyTTAd",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "MyTTAd",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SnapKit",
+        "printedName": "SnapKit",
+        "declKind": "Import",
+        "moduleName": "MyTTAd"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdManager",
+        "printedName": "AdManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdManager",
+                "printedName": "MyTTAd.AdManager",
+                "usr": "s:6MyTTAd9AdManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6MyTTAd9AdManagerC6sharedACvpZ",
+            "mangledName": "$s6MyTTAd9AdManagerC6sharedACvpZ",
+            "moduleName": "MyTTAd",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "Nonisolated"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdManager",
+                    "printedName": "MyTTAd.AdManager",
+                    "usr": "s:6MyTTAd9AdManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6MyTTAd9AdManagerC6sharedACvgZ",
+                "mangledName": "$s6MyTTAd9AdManagerC6sharedACvgZ",
+                "moduleName": "MyTTAd",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "loadAd",
+            "printedName": "loadAd(with:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Swift.String, any Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Swift.String, any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6MyTTAd9AdManagerC04loadC04with10completionySS_ys6ResultOySSs5Error_pGctF",
+            "mangledName": "$s6MyTTAd9AdManagerC04loadC04with10completionySS_ys6ResultOySSs5Error_pGctF",
+            "moduleName": "MyTTAd",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "comeOnWriteCode",
+            "printedName": "comeOnWriteCode()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6MyTTAd9AdManagerC15comeOnWriteCodeyyF",
+            "mangledName": "$s6MyTTAd9AdManagerC15comeOnWriteCodeyyF",
+            "moduleName": "MyTTAd",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:6MyTTAd9AdManagerC",
+        "mangledName": "$s6MyTTAd9AdManagerC",
+        "moduleName": "MyTTAd",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ReplaceMe",
+        "printedName": "ReplaceMe",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "ReplaceMeYouSure",
+            "printedName": "ReplaceMeYouSure()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6MyTTAd9ReplaceMeC0cD7YouSureyyF",
+            "mangledName": "$s6MyTTAd9ReplaceMeC0cD7YouSureyyF",
+            "moduleName": "MyTTAd",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:6MyTTAd9ReplaceMeC",
+        "mangledName": "$s6MyTTAd9ReplaceMeC",
+        "moduleName": "MyTTAd",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

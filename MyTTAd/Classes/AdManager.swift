@@ -18,7 +18,7 @@
 import Alamofire
 import SnapKit
 
-public class AdManager {
+open class AdManager {
     nonisolated(unsafe) public static let shared = AdManager()
     
     private init() {}
@@ -27,7 +27,7 @@ public class AdManager {
         // 实现细节隐藏
     }
     
-    public func comeOnWriteCode(){
+    open func comeOnWriteCode(){
         
     }
 }

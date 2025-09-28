@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+Target 'MyTTAd' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit-SnapKit_Privacy' in project 'Pods'
+Target 'SnapKit-SnapKit_Privacy' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire-Alamofire' in project 'Pods'
+Target 'Alamofire-Alamofire' in project 'Pods' (no dependencies)

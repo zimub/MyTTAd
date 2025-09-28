@@ -1,0 +1,10 @@
+framework module MyTTAd {
+  umbrella header "MyTTAd-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MyTTAd.__Swift {
+  exclude header "MyTTAd-Swift.h"
+}

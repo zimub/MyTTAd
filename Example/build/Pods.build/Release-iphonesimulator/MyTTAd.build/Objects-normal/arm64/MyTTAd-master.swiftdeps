@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "73f8e3615905fa1c8082c52157635bd36b66ea62e76f83bf4722427233086a24"
+build_start_time: [1758871376, 961803000]
+build_end_time: [1758871379, 564978000]
+inputs:
+  "/Users/ttwj/MyTTAd/MyTTAd/Classes/AdManager.swift": [1758858507, 388919420]
+  "/Users/ttwj/MyTTAd/MyTTAd/Classes/ReplaceMe.swift": [1758792434, 345985322]

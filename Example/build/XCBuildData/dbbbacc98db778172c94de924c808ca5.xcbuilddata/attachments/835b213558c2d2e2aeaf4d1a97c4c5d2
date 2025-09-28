@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/MyTTAd-master.swiftconstvalues",
+    "dependencies" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/MyTTAd-master.d",
+    "diagnostics" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/MyTTAd-master.dia",
+    "emit-module-dependencies" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/MyTTAd-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/MyTTAd-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/MyTTAd-master.swiftdeps"
+  },
+  "/Users/ttwj/MyTTAd/MyTTAd/Classes/AdManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/AdManager.o",
+    "llvm-bc" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/AdManager.bc",
+    "object" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/AdManager.o"
+  },
+  "/Users/ttwj/MyTTAd/MyTTAd/Classes/ReplaceMe.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/ReplaceMe.o",
+    "llvm-bc" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/ReplaceMe.bc",
+    "object" : "/Users/ttwj/MyTTAd/Example/build/Pods.build/Release-iphonesimulator/MyTTAd.build/Objects-normal/x86_64/ReplaceMe.o"
+  }
+}

@@ -23,29 +23,15 @@
     "5.0",
     "6.0"
   ],
-  "pod_target_xcconfig": {
-    "VALID_ARCHS": "x86_64 arm64",
-    "ARCHS": "x86_64 arm64",
-    "EXCLUDED_ARCHS[sdk=iphoneos*]": "armv7 armv7s",
-    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "armv7 armv7s i386"
-  },
-  "user_target_xcconfig": {
-    "VALID_ARCHS": "x86_64 arm64",
-    "EXCLUDED_ARCHS[sdk=iphoneos*]": "armv7 armv7s",
-    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "armv7 armv7s i386"
-  },
+  "static_framework": true,
   "frameworks": [
     "UIKit",
     "Foundation",
     "CoreGraphics"
   ],
   "dependencies": {
-    "Alamofire": [
-
-    ],
-    "SnapKit": [
-
-    ]
+    "Alamofire": [],
+    "SnapKit": []
   },
   "swift_version": "6.0"
 }
