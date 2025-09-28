@@ -156,6 +156,26 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nonoIdontKnow",
+            "printedName": "nonoIdontKnow()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6MyTTAd9AdManagerC13nonoIdontKnowyyF",
+            "mangledName": "$s6MyTTAd9AdManagerC13nonoIdontKnowyyF",
+            "moduleName": "MyTTAd",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",

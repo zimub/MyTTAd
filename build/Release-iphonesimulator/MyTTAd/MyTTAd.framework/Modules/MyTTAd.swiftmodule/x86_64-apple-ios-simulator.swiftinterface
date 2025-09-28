@@ -13,6 +13,7 @@ import _SwiftConcurrencyShims
   nonisolated(unsafe) public static let shared: MyTTAd.AdManager
   public func loadAd(with id: Swift.String, completion: @escaping (Swift.Result<Swift.String, any Swift.Error>) -> Swift.Void)
   open func comeOnWriteCode()
+  public func nonoIdontKnow()
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ReplaceMe {
