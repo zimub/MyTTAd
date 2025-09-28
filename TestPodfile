@@ -1,7 +1,0 @@
-platform :ios, '12.0'
-use_frameworks!
-
-target 'TestApp' do
-  # 使用本地路径测试
-  pod 'MyTTAd', :path => '.'
-end
