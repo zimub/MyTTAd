@@ -1,9 +1,9 @@
 PODS:
   - Alamofire (5.10.2)
   - CleanJSON (1.0.9)
-  - MyTTAd (1.0.6):
-    - Alamofire
-    - SnapKit
+  - MyTTAd (1.0.9):
+    - Alamofire (~> 5.0)
+    - SnapKit (~> 5.0)
   - SnapKit (5.7.1)
 
 DEPENDENCIES:
@@ -23,7 +23,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
   CleanJSON: 910a36465ce4829e264a902ccf6d1455fdd9f980
-  MyTTAd: 389c1b7440abc645373a0f50dbf946c87ab7eab9
+  MyTTAd: d4f2a31827f4e43165e7b569d2b7d7ecddc675fc
   SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
 
 PODFILE CHECKSUM: 5d48c005c2b87c2f6c7f40dbbab5adf815c62ea5

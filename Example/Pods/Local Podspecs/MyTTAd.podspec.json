@@ -1,8 +1,8 @@
 {
   "name": "MyTTAd",
-  "version": "1.0.6",
-  "summary": "介绍要整改详细，不要英文简单的说明",
-  "description": "这里不要有土豆啊，验证不过去，详细点",
+  "version": "1.0.9",
+  "summary": "MyTTAd 是一个用于 iOS 应用的广告 SDK，提供开屏广告、横幅广告、插屏广告等功能",
+  "description": "MyTTAd 是一个功能完整的 iOS 广告 SDK，支持多种广告形式包括开屏广告、横幅广告、插屏广告等。\n该 SDK 基于 Swift 开发，支持 iOS 12.0 及以上版本，提供简单易用的 API 接口。",
   "homepage": "https://github.com/zimub/MyTTAd",
   "license": {
     "type": "MIT",
@@ -13,25 +13,32 @@
   },
   "source": {
     "git": "https://github.com/zimub/MyTTAd.git",
-    "tag": "1.0.6"
+    "tag": "1.0.9"
   },
   "platforms": {
     "ios": "12.0"
   },
-  "source_files": "MyTTAd/Classes/**/*",
   "swift_versions": [
     "5.0",
     "6.0"
   ],
+  "vendored_frameworks": "MyTTAd.xcframework",
   "static_framework": true,
   "frameworks": [
     "UIKit",
     "Foundation",
-    "CoreGraphics"
+    "CoreGraphics",
+    "AdSupport",
+    "CoreTelephony",
+    "SystemConfiguration"
   ],
   "dependencies": {
-    "Alamofire": [],
-    "SnapKit": []
+    "Alamofire": [
+      "~> 5.0"
+    ],
+    "SnapKit": [
+      "~> 5.0"
+    ]
   },
   "swift_version": "6.0"
 }
