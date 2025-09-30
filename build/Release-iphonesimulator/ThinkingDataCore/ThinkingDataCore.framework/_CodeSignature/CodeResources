@@ -80,14 +80,6 @@
 		<data>
 		lKwnlOxw3i1A/3nEGDy73QP1TW0=
 		</data>
-		<key>ThinkingDataCore.bundle/Info.plist</key>
-		<data>
-		88HkibfUVBK+TdWqJXWexcdvDdA=
-		</data>
-		<key>ThinkingDataCore.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		i3YpomTpJHpRGpdt+oGaesmknBg=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -287,28 +279,6 @@
 			<key>hash2</key>
 			<data>
 			G2ghxj/wwRUP6S5zP3QpG7Yo8ZVbU3E7ovVyEAcTq0A=
-			</data>
-		</dict>
-		<key>ThinkingDataCore.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			88HkibfUVBK+TdWqJXWexcdvDdA=
-			</data>
-			<key>hash2</key>
-			<data>
-			y7fgWcoouLsST8Psc6VcKYhX4KLOibuF//eT4cKG04c=
-			</data>
-		</dict>
-		<key>ThinkingDataCore.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			i3YpomTpJHpRGpdt+oGaesmknBg=
-			</data>
-			<key>hash2</key>
-			<data>
-			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
 			</data>
 		</dict>
 	</dict>

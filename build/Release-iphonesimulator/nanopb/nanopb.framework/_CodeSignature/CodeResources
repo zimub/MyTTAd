@@ -32,14 +32,6 @@
 		<data>
 		VE0n+HvVm7YDki/SnnYSYzJdaOE=
 		</data>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<data>
-		NbU9wN4ejgEw5wTwPZlGGbIFWIQ=
-		</data>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		KY5lfwC2TvsgFj4wt7hkMmainbs=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -107,28 +99,6 @@
 			<key>hash2</key>
 			<data>
 			964ewTQFnBAQHHPXRiTBEL9kMV+4JU4sMGWXVlK03/s=
-			</data>
-		</dict>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NbU9wN4ejgEw5wTwPZlGGbIFWIQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			iiHtCO2keeEB4NwIEyLux1uJleOSVRNLho+U7eefgFk=
-			</data>
-		</dict>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KY5lfwC2TvsgFj4wt7hkMmainbs=
-			</data>
-			<key>hash2</key>
-			<data>
-			cpujy9D0WMeM1h7fFzUO2v4ONMqG4xTsZMjLIszSG1Q=
 			</data>
 		</dict>
 	</dict>

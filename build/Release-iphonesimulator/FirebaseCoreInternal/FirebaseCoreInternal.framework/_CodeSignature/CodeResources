@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
-		<data>
-		4ALV362+JJmVqObJ3oAnYT4c4Js=
-		</data>
-		<key>FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ifoThrqbbqoLG4yjAruMQRaf0Dw=
-		</data>
 		<key>Headers/FirebaseCoreInternal-Swift.h</key>
 		<data>
 		s43F+tyLcOr94Iib9UJenhg6LJY=
@@ -26,11 +18,11 @@
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		hT0EbnQkaNNdx6t2rRF2n3YLXzo=
+		0vgtXhpsVFS+NFeV6WYyiRn3OQU=
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		1Fyt14XrYObjCFlBMN5WhUnT6eA=
+		S1Z9wQ1U0wu8N1g6ILlo1KTMt/I=
 		</data>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -79,28 +71,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4ALV362+JJmVqObJ3oAnYT4c4Js=
-			</data>
-			<key>hash2</key>
-			<data>
-			oLLwA6ejEmc3Y4cvQN1S8RuJcgtRVLE92ppbbDsoPKg=
-			</data>
-		</dict>
-		<key>FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ifoThrqbbqoLG4yjAruMQRaf0Dw=
-			</data>
-			<key>hash2</key>
-			<data>
-			W3/peUI97ePgivwppC8A9ghiddxUioTCl3QjWGPu0+8=
-			</data>
-		</dict>
 		<key>Headers/FirebaseCoreInternal-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -127,22 +97,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hT0EbnQkaNNdx6t2rRF2n3YLXzo=
+			0vgtXhpsVFS+NFeV6WYyiRn3OQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			FPtGbEaUdCzfkf5ftzvC72q9iocM8ZAdA7RRv9S2cWo=
+			e+85/aHm7EmXF1bBPO5NYZ0WNbI1Z6lcUKTRCsdVMjE=
 			</data>
 		</dict>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1Fyt14XrYObjCFlBMN5WhUnT6eA=
+			S1Z9wQ1U0wu8N1g6ILlo1KTMt/I=
 			</data>
 			<key>hash2</key>
 			<data>
-			fJ6T+TyRcgSzAo7iqTYI6NHVtE33RaRbiCHAH49LLsg=
+			Fcb06G8VHzuw+euxw+5E9AtwAmpSytsNS+AZUF1y2z8=
 			</data>
 		</dict>
 		<key>Modules/FirebaseCoreInternal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

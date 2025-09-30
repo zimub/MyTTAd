@@ -512,14 +512,6 @@
 		<data>
 		UixbDHZdS7TouRXJtxpqXgxfo9Y=
 		</data>
-		<key>ThinkingSDK.bundle/Info.plist</key>
-		<data>
-		Se3y5n9Bp/iIyHTPmNPtD5DOhMg=
-		</data>
-		<key>ThinkingSDK.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		1SxAuw0Mlgev/9VoGyskxvA1MGE=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -1907,28 +1899,6 @@
 			<key>hash2</key>
 			<data>
 			xWy0nF5bgxqh6VW2S5UZ0wD+Osh3feEN57YbL72F3k0=
-			</data>
-		</dict>
-		<key>ThinkingSDK.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Se3y5n9Bp/iIyHTPmNPtD5DOhMg=
-			</data>
-			<key>hash2</key>
-			<data>
-			H9Nva9clfE6BdaUAgDRQUlSy8M9bOuFwLIInx3RlOhA=
-			</data>
-		</dict>
-		<key>ThinkingSDK.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1SxAuw0Mlgev/9VoGyskxvA1MGE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Hmb4AT0AHJN0sv9iwMlDAlr4DBTuSlCaMcY0w76N5Tk=
 			</data>
 		</dict>
 	</dict>

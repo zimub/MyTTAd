@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FirebaseCrashlytics_Privacy.bundle/Info.plist</key>
-		<data>
-		VqfwZ93Hp0xrZTQ+MInYSKlBTfE=
-		</data>
-		<key>FirebaseCrashlytics_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		g3fc3y636QJCoPiIvpfXyweluBA=
-		</data>
 		<key>Headers/FIRCrashlytics.h</key>
 		<data>
 		DRpfFqqWTwFxka0rxIpDuaDAduM=
@@ -46,11 +38,11 @@
 		</data>
 		<key>Modules/FirebaseCrashlytics.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		41TB3JdJwO5FTSqdmCjcK/ARS3s=
+		Ob7wm4tZsYlKjUH96d9nBvTLtkU=
 		</data>
 		<key>Modules/FirebaseCrashlytics.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		WIThd0pbdgqIB+EPw08sFxQhrCw=
+		R0LRc7nUgISVT+nmnQ07h47jLW0=
 		</data>
 		<key>Modules/FirebaseCrashlytics.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -99,28 +91,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>FirebaseCrashlytics_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VqfwZ93Hp0xrZTQ+MInYSKlBTfE=
-			</data>
-			<key>hash2</key>
-			<data>
-			nMTecNMwTMCwiHToxL5j18ZO0c+6hT4PBR82AO8zteg=
-			</data>
-		</dict>
-		<key>FirebaseCrashlytics_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g3fc3y636QJCoPiIvpfXyweluBA=
-			</data>
-			<key>hash2</key>
-			<data>
-			6bzG6cc4K/UGytq+dM/U7RVWhoBrqBwZWmNLhqpfzOA=
-			</data>
-		</dict>
 		<key>Headers/FIRCrashlytics.h</key>
 		<dict>
 			<key>hash</key>
@@ -202,22 +172,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			41TB3JdJwO5FTSqdmCjcK/ARS3s=
+			Ob7wm4tZsYlKjUH96d9nBvTLtkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yu2ENxm+P8U3c2/+GZQeukY8Xmevqxqj4txHlE6FOJQ=
+			gQz5s9kSSrZZ6muw7o8VtIy0UpPrDZPfJLxg3Ck3Y/c=
 			</data>
 		</dict>
 		<key>Modules/FirebaseCrashlytics.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WIThd0pbdgqIB+EPw08sFxQhrCw=
+			R0LRc7nUgISVT+nmnQ07h47jLW0=
 			</data>
 			<key>hash2</key>
 			<data>
-			m2GkYhcDYXiK2N0CHAszZx/iaHWC1J9Y78ZI2PXJGu8=
+			0rPLxU6zwEvaS2tARii5xOdtWkHtMAcMP2WWo2BbY7I=
 			</data>
 		</dict>
 		<key>Modules/FirebaseCrashlytics.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

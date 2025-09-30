@@ -16,10 +16,20 @@ s.author           = { 'zimub' => 'panguowen@playdayy.com' }
 s.source           = { :git => 'https://github.com/zimub/MyTTAd.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '13.0'
+
+  # 关键：添加这些配置来强制覆盖所有目标的部署版本
+  s.user_target_xcconfig = {
+    'IPHONEOS_DEPLOYMENT_TARGET' => '13.0',
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
+  s.pod_target_xcconfig = {
+    'IPHONEOS_DEPLOYMENT_TARGET' => '13.0',
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
 s.swift_versions = ['5.0', '6.0']
 
 # 使用 xcframework 方式发布
-# s.vendored_frameworks = 'MyTTAd.xcframework'
+#s.vendored_frameworks = 'MyTTAd.xcframework'
 s.source_files = 'MyTTAd/Classes/**/*'
 # 静态框架
 s.static_framework = true
@@ -31,8 +41,8 @@ s.frameworks = 'UIKit','Foundation','AdSupport','CoreMotion','AppTrackingTranspa
 s.libraries = 'c++','bz2','c++abi','resolv.9','sqlite3.0','sqlite3','xml2.2','xml2'
 
 s.dependency 'Alamofire', '~> 5.9.1'
-s.dependency 'MBProgressHUD', '1.2.0'
-s.dependency 'BrotliKit', '1.0.2'
+# s.dependency 'MBProgressHUD', '1.2.0'
+# s.dependency 'BrotliKit', '1.0.2'
 s.dependency 'AdjustSignature', '3.35.2'
 s.dependency 'Sentry', '1.7.2'
 s.dependency 'FBSDKCoreKit_Basics', '17.0.0'

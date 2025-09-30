@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Alamofire.bundle/Info.plist</key>
-		<data>
-		kkiv0+RCSXxRbDZrsgEzKAXe2k4=
-		</data>
-		<key>Alamofire.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ovFJMFOLMjzh8DLJKmXncj8JIgU=
-		</data>
 		<key>Headers/Alamofire-Swift.h</key>
 		<data>
 		O8+zSQWsXrpN9D5Gv653OFYwipk=
@@ -26,11 +18,11 @@
 		</data>
 		<key>Modules/Alamofire.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ovnCHC0B7xAa6oJsTpPEkNqMJC0=
+		53gPxNthxW0PSDJvuBR7uTAxHNk=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		RO+KyjqEnpXAL5dGGNAoNzx7yNA=
+		AuSdQj/XlgO+xJcxuhOopxZ+SzQ=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -79,28 +71,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Alamofire.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kkiv0+RCSXxRbDZrsgEzKAXe2k4=
-			</data>
-			<key>hash2</key>
-			<data>
-			SZDb6bUDGBc+GlLdoFOkLWAac3DiAphRoReP/Ynbgh4=
-			</data>
-		</dict>
-		<key>Alamofire.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ovFJMFOLMjzh8DLJKmXncj8JIgU=
-			</data>
-			<key>hash2</key>
-			<data>
-			CNkOaUbb/qDQtbF/tlnXfu0j5EO3Rdjntbn6N4y3RHc=
-			</data>
-		</dict>
 		<key>Headers/Alamofire-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -127,22 +97,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ovnCHC0B7xAa6oJsTpPEkNqMJC0=
+			53gPxNthxW0PSDJvuBR7uTAxHNk=
 			</data>
 			<key>hash2</key>
 			<data>
-			JCiDVqU7Hp2pvKLyBUSjY6ZN9cdIYkbJavZ3LHLIsrk=
+			Uv9/iNvWMoSTTnxKS38dQdtacm03MSAvALj3CjeEdJE=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RO+KyjqEnpXAL5dGGNAoNzx7yNA=
+			AuSdQj/XlgO+xJcxuhOopxZ+SzQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			vX7mLsrDkjvtPQL5clbSh2s4yDuGKy8buIHfackvs30=
+			bzDKgzlSUIGfNziY4+k5u03zGx+i/oq875zvq8hbc9Y=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

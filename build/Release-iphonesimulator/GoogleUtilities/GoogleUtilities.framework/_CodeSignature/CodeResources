@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<data>
-		F92T/uGW42QBsMngCOsi5OXLdRU=
-		</data>
-		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		9Dge7JFNlx7Vk430tsjNsK3d0Ng=
-		</data>
 		<key>Headers/GULAppDelegateSwizzler.h</key>
 		<data>
 		syLcTf4iZM/zGTHKReVOIYHhIJI=
@@ -111,28 +103,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			F92T/uGW42QBsMngCOsi5OXLdRU=
-			</data>
-			<key>hash2</key>
-			<data>
-			WqiGaQxq7XwYJqMudbWmtwylkmDIRAPwIpIHPyTdBUs=
-			</data>
-		</dict>
-		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9Dge7JFNlx7Vk430tsjNsK3d0Ng=
-			</data>
-			<key>hash2</key>
-			<data>
-			+Btc+PBDZicS7KnpeFdnJkzxkAJf5720l3cpbAaN5Tw=
-			</data>
-		</dict>
 		<key>Headers/GULAppDelegateSwizzler.h</key>
 		<dict>
 			<key>hash</key>

@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FirebaseInstallations_Privacy.bundle/Info.plist</key>
-		<data>
-		N1FWBQGewK2saMARDd5TsywxwWc=
-		</data>
-		<key>FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-		</data>
 		<key>Headers/FIRInstallations.h</key>
 		<data>
 		BmsdUI3E4c0dyJOJ40pqUZmNJ/Q=
@@ -43,28 +35,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>FirebaseInstallations_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			N1FWBQGewK2saMARDd5TsywxwWc=
-			</data>
-			<key>hash2</key>
-			<data>
-			mSdijDS9suQi8ejVFsKQGTi5XPcASBBd4q9qoN5TbLM=
-			</data>
-		</dict>
-		<key>FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-			</data>
-			<key>hash2</key>
-			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
-			</data>
-		</dict>
 		<key>Headers/FIRInstallations.h</key>
 		<dict>
 			<key>hash</key>

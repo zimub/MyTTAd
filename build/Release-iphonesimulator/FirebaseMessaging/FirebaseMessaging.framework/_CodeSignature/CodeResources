@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FirebaseMessaging_Privacy.bundle/Info.plist</key>
-		<data>
-		ru+6lZuxcxjX0SijW2vIrayj1mw=
-		</data>
-		<key>FirebaseMessaging_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		gwv2NsO/6s7ik6Px6eTTTvacWN4=
-		</data>
 		<key>Headers/FIRMessaging.h</key>
 		<data>
 		bYX63y25RD/SnOcESRm/Iv66NL8=
@@ -39,28 +31,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>FirebaseMessaging_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ru+6lZuxcxjX0SijW2vIrayj1mw=
-			</data>
-			<key>hash2</key>
-			<data>
-			NQwo6/QgyVZBOWW67/KxwbcRmV5eUMGHQdZrPy5KSNE=
-			</data>
-		</dict>
-		<key>FirebaseMessaging_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gwv2NsO/6s7ik6Px6eTTTvacWN4=
-			</data>
-			<key>hash2</key>
-			<data>
-			mHYgljcqwn9eiIxzctUS8NP1zzKDxkAGBw9M3hpyoHE=
-			</data>
-		</dict>
 		<key>Headers/FIRMessaging.h</key>
 		<dict>
 			<key>hash</key>
