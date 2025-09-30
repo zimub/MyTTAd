@@ -1,0 +1,363 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TTOpenPass
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+import AuthenticationServices
+import CryptoKit
+import Foundation
+import OSLog
+import Security
+import Swift
+@_exported import TTOpenPass
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class DeviceCodeObjC : ObjectiveC.NSObject {
+  @objc final public var userCode: Swift.String {
+    @objc get
+  }
+  @objc final public var verificationUri: Swift.String {
+    @objc get
+  }
+  @objc final public var verificationUriComplete: Swift.String? {
+    @objc get
+  }
+  @objc final public var expiresAt: Foundation.Date {
+    @objc get
+  }
+  @available(*, unavailable)
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension TTOpenPass.DeviceCodeObjC {
+  @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
+}
+extension TTOpenPass.DeviceCodeObjC {
+  @objc override final public var hash: Swift.Int {
+    @objc get
+  }
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class SignInFlowObjC : ObjectiveC.NSObject {
+  @available(*, unavailable)
+  @objc override dynamic public init()
+  @objc final public func beginSignIn() async throws -> TTOpenPass.OpenPassTokensObjC
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class OpenPassTokensObjC : ObjectiveC.NSObject {
+  @objc final public var idToken: TTOpenPass.IDTokenObjC? {
+    @objc get
+  }
+  @objc final public var idTokenJWT: Swift.String {
+    @objc get
+  }
+  @objc final public var idTokenExpiresIn: Foundation.NSNumber? {
+    @objc get
+  }
+  @objc final public var accessToken: Swift.String {
+    @objc get
+  }
+  @objc final public var tokenType: Swift.String {
+    @objc get
+  }
+  @objc final public var expiresIn: Swift.Int64 {
+    @objc get
+  }
+  @objc final public var refreshToken: Swift.String? {
+    @objc get
+  }
+  @objc final public var refreshTokenExpiresIn: Foundation.NSNumber? {
+    @objc get
+  }
+  @objc final public var issuedAt: Foundation.Date? {
+    @objc get
+  }
+  @available(*, unavailable)
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension TTOpenPass.OpenPassTokensObjC {
+  @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
+}
+extension TTOpenPass.OpenPassTokensObjC {
+  @objc override final public var hash: Swift.Int {
+    @objc get
+  }
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class RefreshTokenFlowObjC : ObjectiveC.NSObject {
+  @available(*, unavailable)
+  @objc override dynamic public init()
+  @objc final public func refreshTokens(_ refreshToken: Swift.String) async throws -> TTOpenPass.OpenPassTokensObjC
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class DeviceAuthorizationFlowObjC : ObjectiveC.NSObject {
+  @available(*, unavailable)
+  @objc override dynamic public init()
+  @objc final public func fetchDeviceCode() async throws -> TTOpenPass.DeviceCodeObjC
+  @objc final public func fetchAccessToken(deviceCode deviceCodeWrapper: TTOpenPass.DeviceCodeObjC) async throws -> TTOpenPass.OpenPassTokensObjC
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class IDTokenObjC : ObjectiveC.NSObject {
+  @objc final public var keyId: Swift.String {
+    @objc get
+  }
+  @objc final public var tokenType: Swift.String {
+    @objc get
+  }
+  @objc final public var algorithm: Swift.String {
+    @objc get
+  }
+  @objc final public var issuerIdentifier: Swift.String {
+    @objc get
+  }
+  @objc final public var subjectIdentifier: Swift.String {
+    @objc get
+  }
+  @objc final public var audience: Swift.String {
+    @objc get
+  }
+  @objc final public var expirationTime: Foundation.NSNumber {
+    @objc get
+  }
+  @objc final public var issuedTime: Foundation.NSNumber {
+    @objc get
+  }
+  @objc final public var email: Swift.String? {
+    @objc get
+  }
+  @objc final public var givenName: Swift.String? {
+    @objc get
+  }
+  @objc final public var familyName: Swift.String? {
+    @objc get
+  }
+  @available(*, unavailable)
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension TTOpenPass.IDTokenObjC {
+  @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
+}
+extension TTOpenPass.IDTokenObjC {
+  @objc override final public var hash: Swift.Int {
+    @objc get
+  }
+}
+extension TTOpenPass.OpenPassSettings {
+  @objc final public var environmentObjC: TTOpenPass.OpenPassEnvironmentObjC? {
+    @objc get
+    @objc set
+  }
+}
+extension TTOpenPass.OpenPassEnvironmentObjC {
+  @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
+}
+extension TTOpenPass.OpenPassEnvironmentObjC {
+  @objc override final public var hash: Swift.Int {
+    @objc get
+  }
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @objc final public class OpenPassManagerObjC : ObjectiveC.NSObject {
+  @objc @_Concurrency.MainActor public static let shared: TTOpenPass.OpenPassManagerObjC
+  @available(*, unavailable)
+  @_Concurrency.MainActor @objc override dynamic public init()
+  @objc @_Concurrency.MainActor final public var openPassTokens: TTOpenPass.OpenPassTokensObjC? {
+    @objc get
+  }
+  @objc @_Concurrency.MainActor final public func addObserver(_ observer: @escaping (TTOpenPass.OpenPassTokensObjC?) -> Swift.Void) -> TTOpenPass.OpenPassManagerObjCObserver
+  @objc @_Concurrency.MainActor final public func removeObserver(_ observer: TTOpenPass.OpenPassManagerObjCObserver)
+  @discardableResult
+  @objc @_Concurrency.MainActor final public func signOut() -> Swift.Bool
+  @objc @_Concurrency.MainActor final public var signInFlow: TTOpenPass.SignInFlowObjC {
+    @objc get
+  }
+  @objc @_Concurrency.MainActor final public var refreshTokenFlow: TTOpenPass.RefreshTokenFlowObjC {
+    @objc get
+  }
+  @objc @_Concurrency.MainActor final public var deviceAuthorizationFlow: TTOpenPass.DeviceAuthorizationFlowObjC {
+    @objc get
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @objc final public class OpenPassEnvironmentObjC : ObjectiveC.NSObject, @unchecked Swift.Sendable {
+  @objc public static let production: TTOpenPass.OpenPassEnvironmentObjC
+  @objc public static let staging: TTOpenPass.OpenPassEnvironmentObjC
+  @objc public static func custom(url: Foundation.URL) -> TTOpenPass.OpenPassEnvironmentObjC
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @objc final public class OpenPassManagerObjCObserver : ObjectiveC.NSObject {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc final public class OpenPassSettings : ObjectiveC.NSObject, @unchecked Swift.Sendable {
+  @objc final public var clientId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc final public var redirectHost: Swift.String? {
+    @objc get
+    @objc set
+  }
+  final public var environment: TTOpenPass.Environment? {
+    get
+    set
+  }
+  @objc final public var sdkNameSuffix: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc final public var isLoggingEnabled: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc public static let shared: TTOpenPass.OpenPassSettings
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @available(iOS 13.0, tvOS 16.0, *)
+@_Concurrency.MainActor final public class OpenPassManager {
+  @_Concurrency.MainActor public static let shared: TTOpenPass.OpenPassManager
+  @_Concurrency.MainActor final public var openPassTokens: TTOpenPass.OpenPassTokens? {
+    get
+  }
+  @_Concurrency.MainActor final public func openPassTokensValues() -> _Concurrency.AsyncStream<TTOpenPass.OpenPassTokens?>
+  @_Concurrency.MainActor final public let sdkVersion: Swift.String
+  @_Concurrency.MainActor final public func signOut() -> Swift.Bool
+  @discardableResult
+  @available(*, deprecated, renamed: "signInFlow.beginSignIn", message: "Please create an explicit flow instance using the `signInFlow` and call its `beginSignIn()` method.")
+  @_Concurrency.MainActor final public func beginSignInUXFlow() async throws -> TTOpenPass.OpenPassTokens
+  @_Concurrency.MainActor final public var signInFlow: TTOpenPass.SignInFlow {
+    get
+  }
+  @_Concurrency.MainActor final public var refreshTokenFlow: TTOpenPass.RefreshTokenFlow {
+    get
+  }
+  @_Concurrency.MainActor final public var deviceAuthorizationFlow: TTOpenPass.DeviceAuthorizationFlow {
+    get
+  }
+  @objc deinit
+}
+@available(iOS 13.0, tvOS 16.0, *)
+public struct OpenPassTokens : Swift.Hashable, Swift.Codable, Swift.Sendable {
+  public let idToken: TTOpenPass.IDToken?
+  public let idTokenJWT: Swift.String
+  public let idTokenExpiresIn: Swift.Int64?
+  public let accessToken: Swift.String
+  public let tokenType: Swift.String
+  public let expiresIn: Swift.Int64
+  public let refreshToken: Swift.String?
+  public let refreshTokenExpiresIn: Swift.Int64?
+  public let issuedAt: Foundation.Date?
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: TTOpenPass.OpenPassTokens, b: TTOpenPass.OpenPassTokens) -> Swift.Bool
+  public func encode(to encoder: any Swift.Encoder) throws
+  public var hashValue: Swift.Int {
+    get
+  }
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension TTOpenPass.OpenPassTokens {
+  public var accessTokenExpiry: Foundation.Date? {
+    get
+  }
+  public var idTokenExpiry: Foundation.Date? {
+    get
+  }
+  public var refreshTokenExpiry: Foundation.Date? {
+    get
+  }
+}
+extension TTOpenPass.OpenPassTokens {
+  public init(idTokenJWT: Swift.String, idTokenExpiresIn: Swift.Int64?, accessToken: Swift.String, tokenType: Swift.String, expiresIn: Swift.Int64, refreshToken: Swift.String?, refreshTokenExpiresIn: Swift.Int64?, issuedAt: Foundation.Date?)
+}
+extension TTOpenPass.OpenPassTokens {
+  public func toData() throws -> Foundation.Data
+  public static func fromData(_ data: Foundation.Data) -> TTOpenPass.OpenPassTokens?
+}
+@available(iOS 13.0, tvOS 16.0, *)
+public struct IDToken : Swift.Hashable, Swift.Codable, Swift.Sendable {
+  public let keyId: Swift.String
+  public let tokenType: Swift.String
+  public let algorithm: Swift.String
+  public let issuerIdentifier: Swift.String
+  public let subjectIdentifier: Swift.String
+  public let audience: Swift.String
+  public let expirationTime: Swift.Int64
+  public let issuedTime: Swift.Int64
+  public let email: Swift.String?
+  public let givenName: Swift.String?
+  public let familyName: Swift.String?
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: TTOpenPass.IDToken, b: TTOpenPass.IDToken) -> Swift.Bool
+  public func encode(to encoder: any Swift.Encoder) throws
+  public var hashValue: Swift.Int {
+    get
+  }
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension TTOpenPass.IDToken {
+  public init?(idTokenJWT: Swift.String)
+}
+@_hasMissingDesignatedInitializers @_Concurrency.MainActor final public class RefreshTokenFlow {
+  @_Concurrency.MainActor final public func refreshTokens(_ refreshToken: Swift.String) async throws -> TTOpenPass.OpenPassTokens
+  @objc deinit
+}
+public struct Environment : Swift.Hashable, Swift.Sendable {
+  public static let production: TTOpenPass.Environment
+  public static let staging: TTOpenPass.Environment
+  public static func custom(url: Foundation.URL) -> TTOpenPass.Environment
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: TTOpenPass.Environment, b: TTOpenPass.Environment) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers @_Concurrency.MainActor final public class DeviceAuthorizationFlow {
+  @_Concurrency.MainActor final public func fetchDeviceCode() async throws -> TTOpenPass.DeviceCode
+  @_Concurrency.MainActor final public func fetchAccessToken(deviceCode: TTOpenPass.DeviceCode) async throws -> TTOpenPass.OpenPassTokens
+  @objc deinit
+}
+@available(iOS 13.0, tvOS 16.0, *)
+public enum OpenPassError : Swift.Error {
+  case missingConfiguration
+  case authorizationUrl
+  case authorizationCancelled
+  case authorizationCallBackDataItems
+  case tokenData(name: Swift.String?, description: Swift.String?, uri: Swift.String?)
+  case tokenAuthorizationPending(name: Swift.String, description: Swift.String?)
+  case tokenSlowDown(name: Swift.String, description: Swift.String?)
+  case tokenExpired(name: Swift.String, description: Swift.String?)
+  case verificationFailedForOIDCToken
+  case invalidJWKS
+  case authorizationError(code: Swift.String, description: Swift.String)
+  case urlGeneration
+  case unableToGenerateDeviceCode(name: Swift.String, description: Swift.String?)
+  case unableToGenerateTokenFromDeviceCode
+}
+@_hasMissingDesignatedInitializers @_Concurrency.MainActor final public class SignInFlow {
+  @discardableResult
+  @_Concurrency.MainActor final public func beginSignIn() async throws -> TTOpenPass.OpenPassTokens
+  @objc deinit
+}
+public struct DeviceCode : Swift.Hashable, Swift.Sendable {
+  public let userCode: Swift.String
+  public let verificationUri: Swift.String
+  public let verificationUriComplete: Swift.String?
+  public let expiresAt: Foundation.Date
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: TTOpenPass.DeviceCode, b: TTOpenPass.DeviceCode) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @objcMembers open class TTUID2Manager : ObjectiveC.NSObject {
+  @objc public static func share(email: Swift.String) async
+  @objc public static func getToken() async -> Swift.String?
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension TTOpenPass.OpenPassManagerObjC : Swift.Sendable {}
+@available(iOS 13.0, tvOS 16.0, *)
+extension TTOpenPass.OpenPassManager : Swift.Sendable {}
+extension TTOpenPass.RefreshTokenFlow : Swift.Sendable {}
+extension TTOpenPass.DeviceAuthorizationFlow : Swift.Sendable {}
+extension TTOpenPass.SignInFlow : Swift.Sendable {}

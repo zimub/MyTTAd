@@ -1,0 +1,11 @@
+framework module UID2 {
+  umbrella header "UID2-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module UID2.Swift {
+  header "UID2-Swift.h"
+  requires objc
+}

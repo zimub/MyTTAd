@@ -1,0 +1,11 @@
+framework module SwiftASN1 {
+  umbrella header "SwiftASN1-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftASN1.Swift {
+  header "SwiftASN1-Swift.h"
+  requires objc
+}

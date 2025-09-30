@@ -1,0 +1,11 @@
+framework module TTOpenPass {
+  umbrella header "TTOpenPass.h"
+  export *
+
+  module * { export * }
+}
+
+module TTOpenPass.Swift {
+  header "TTOpenPass-Swift.h"
+  requires objc
+}
