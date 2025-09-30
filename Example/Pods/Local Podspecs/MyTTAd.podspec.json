@@ -16,28 +16,106 @@
     "tag": "1.0.9"
   },
   "platforms": {
-    "ios": "12.0"
+    "ios": "13.0"
   },
   "swift_versions": [
     "5.0",
     "6.0"
   ],
-  "vendored_frameworks": "MyTTAd.xcframework",
+  "source_files": "MyTTAd/Classes/**/*",
   "static_framework": true,
   "frameworks": [
     "UIKit",
     "Foundation",
-    "CoreGraphics",
     "AdSupport",
-    "CoreTelephony",
-    "SystemConfiguration"
+    "CoreMotion",
+    "AppTrackingTransparency"
+  ],
+  "libraries": [
+    "c++",
+    "bz2",
+    "c++abi",
+    "resolv.9",
+    "sqlite3.0",
+    "sqlite3",
+    "xml2.2",
+    "xml2"
   ],
   "dependencies": {
     "Alamofire": [
-      "~> 5.0"
+      "~> 5.9.1"
     ],
-    "SnapKit": [
-      "~> 5.0"
+    "MBProgressHUD": [
+      "1.2.0"
+    ],
+    "BrotliKit": [
+      "1.0.2"
+    ],
+    "AdjustSignature": [
+      "3.35.2"
+    ],
+    "Sentry": [
+      "1.7.2"
+    ],
+    "FBSDKCoreKit_Basics": [
+      "17.0.0"
+    ],
+    "FBSDKCoreKit": [
+      "17.0.0"
+    ],
+    "FirebaseAnalytics": [
+      "11.3.0"
+    ],
+    "FirebaseABTesting": [
+      "11.3.0"
+    ],
+    "FirebaseAnalyticsOnDeviceConversion": [
+      "11.3.0"
+    ],
+    "FirebaseCore": [
+      "11.3.0"
+    ],
+    "FirebaseCoreExtension": [
+      "11.3.0"
+    ],
+    "FirebaseCoreInternal": [
+      "11.3.0"
+    ],
+    "FirebaseCrashlytics": [
+      "11.3.0"
+    ],
+    "FirebaseInstallations": [
+      "11.3.0"
+    ],
+    "FirebaseMessaging": [
+      "11.3.0"
+    ],
+    "FirebasePerformance": [
+      "11.3.0"
+    ],
+    "FirebaseRemoteConfig": [
+      "11.3.0"
+    ],
+    "FirebaseRemoteConfigInterop": [
+      "11.3.0"
+    ],
+    "FirebaseSessions": [
+      "11.3.0"
+    ],
+    "FirebaseSharedSwift": [
+      "11.3.0"
+    ],
+    "ThinkingDataCore": [
+      "1.0.2"
+    ],
+    "ThinkingSDK": [
+      "3.0.2"
+    ],
+    "GoogleUtilities": [
+      "8.0.2"
+    ],
+    "TTOpenPass": [
+      "2.1.2-swift"
     ]
   },
   "swift_version": "6.0"

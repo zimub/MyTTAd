@@ -16,7 +16,6 @@
 
 // MyTTAd/Classes/AdManager.swift
 import Alamofire
-import SnapKit
 
 open class AdManager {
     nonisolated(unsafe) public static let shared = AdManager()

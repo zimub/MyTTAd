@@ -15,13 +15,6 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "SnapKit",
-        "printedName": "SnapKit",
-        "declKind": "Import",
-        "moduleName": "MyTTAd"
-      },
-      {
         "kind": "TypeDecl",
         "name": "AdManager",
         "printedName": "AdManager",

@@ -4,7 +4,6 @@
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
 import Alamofire
 @_exported import MyTTAd
-import SnapKit
 import Swift
 import _Concurrency
 import _StringProcessing

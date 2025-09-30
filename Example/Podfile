@@ -1,7 +1,19 @@
+
+source 'https://cdn.cocoapods.org/'
+source 'https://github.com/zimub/MySpecs.git'
+source 'https://gitlab.playnexx.net/PluginsRepo/pluginlibspecs.git'
 use_frameworks!
-
-platform :ios, '12.0'
-
+platform :ios, '13.0'
+# 设置所有 Pod 的部署目标
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '13.0'
+      # 解决 Apple Silicon Mac 模拟器架构冲突
+      config.build_settings['EXCLUDED_ARCHS[sdk=iphonesimulator*]'] = 'arm64'
+    end
+  end
+end
 target 'MyTTAd_Example' do
   pod 'MyTTAd', :path => '../'
 
