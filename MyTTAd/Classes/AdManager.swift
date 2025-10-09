@@ -31,6 +31,6 @@ open class AdManager {
     }
     
     public func nonoIdontKnow() {
-        print("这个版本是1.1.4")
+        print("这个版本是1.1.5")
     }
 }

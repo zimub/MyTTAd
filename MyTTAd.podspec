@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'MyTTAd'
-s.version          = '1.1.4'
+s.version          = '1.1.5'
 s.summary          = 'MyTTAd 是一个用于 iOS 应用的广告 SDK，提供开屏广告、横幅广告、插屏广告等功能'
 
 s.description      = <<-DESC
@@ -43,7 +43,7 @@ s.libraries = 'c++','bz2','c++abi','resolv.9','sqlite3.0','sqlite3','xml2.2','xm
 
 s.dependency 'Alamofire', '~> 5.9.1'
 # s.dependency 'MBProgressHUD', '1.2.0'
- s.dependency 'BrotliKit', '1.0.2'
+# s.dependency 'BrotliKit', '1.0.2'
 s.dependency 'AdjustSignature', '3.35.2'
 s.dependency 'Sentry', '1.7.2'
 s.dependency 'FBSDKCoreKit_Basics', '17.0.0'
