@@ -154,7 +154,7 @@ PODS:
   - GoogleUtilities/UserDefaults (8.0.2):
     - GoogleUtilities/Logger
     - GoogleUtilities/Privacy
-  - MyTTAd (1.1.1):
+  - MyTTAd (1.1.2):
     - AdjustSignature (= 3.35.2)
     - Alamofire (~> 5.9.1)
     - FBSDKCoreKit (= 17.0.0)
@@ -270,7 +270,7 @@ SPEC CHECKSUMS:
   GoogleAppMeasurementOnDeviceConversion: c27e7933638b1f430c33e1fdb74a0480cea056b5
   GoogleDataTransport: aae35b7ea0c09004c3797d53c8c41f66f219d6a7
   GoogleUtilities: 26a3abef001b6533cf678d3eb38fd3f614b7872d
-  MyTTAd: 815514ef517a5fa9c3703e7d88391f0b87462890
+  MyTTAd: d20247861b1e9925382e305787bb5d054ad69d40
   nanopb: fad817b59e0457d11a5dfbde799381cd727c1275
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
   PromisesSwift: 9d77319bbe72ebf6d872900551f7eeba9bce2851
