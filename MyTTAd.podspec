@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'MyTTAd'
-s.version          = '1.1.7'
+s.version          = '1.1.8'
 s.summary          = 'MyTTAd 是一个用于 iOS 应用的广告 SDK，提供开屏广告、横幅广告、插屏广告等功能'
 
 s.description      = <<-DESC
