@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IpV6/KGshc7cWTBNWafISOvwDv0=
+		CIRJgrVZB96KR56AGz8n85lo9aw=
 		</data>
 		<key>Modules/MyTTAd.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		nMUecinY0KwScCiJkQOTEI4+V/I=
+		4szmkUiuIlDZl19rQTPfyKCYVyg=
 		</data>
 		<key>Modules/MyTTAd.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		dYwZLMOy11ChTWP7dTotHzOrAoI=
+		4r8+bh6Zg9nnf9gA5OxBGlTSuNo=
 		</data>
 		<key>Modules/MyTTAd.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/MyTTAd.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		J8LlQ4pppcR6B1B/kk+PhkmM/FI=
+		9euTxcHjRjapPE2cxYrb6vML864=
 		</data>
 		<key>Modules/MyTTAd.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MyTTAd.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EijiJKLEXQTIRMut+XIUGRSQ79Q=
+		za2C0y29lW09vDSJC+IjWLN3IUw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,22 +97,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nMUecinY0KwScCiJkQOTEI4+V/I=
+			4szmkUiuIlDZl19rQTPfyKCYVyg=
 			</data>
 			<key>hash2</key>
 			<data>
-			9IF2ESy1nq5XlbrsqGQlQoSghsgoREb08+U0ISGFaWM=
+			zcND098GjVDlx3LKzvzSGWxT4v6+EVzUr1j62XVP4cY=
 			</data>
 		</dict>
 		<key>Modules/MyTTAd.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dYwZLMOy11ChTWP7dTotHzOrAoI=
+			4r8+bh6Zg9nnf9gA5OxBGlTSuNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			dSfSgbS4QPytUWe9+2lt5vbjTKFhhJGcpGNU13tHtGE=
+			x0HxmaZEFtSbZfr9razvvEwm5W6KGGufUObXd3zYrs8=
 			</data>
 		</dict>
 		<key>Modules/MyTTAd.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -163,11 +163,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J8LlQ4pppcR6B1B/kk+PhkmM/FI=
+			9euTxcHjRjapPE2cxYrb6vML864=
 			</data>
 			<key>hash2</key>
 			<data>
-			5hQnq5wu7NimTr1Za2xWuBy7OTjZU+mwpPPUjnBMSv8=
+			+KYgH51YvEhCXsLJwdio5d7jc+R4JB2Saj8eHL3lOSM=
 			</data>
 		</dict>
 		<key>Modules/MyTTAd.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -218,11 +218,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EijiJKLEXQTIRMut+XIUGRSQ79Q=
+			za2C0y29lW09vDSJC+IjWLN3IUw=
 			</data>
 			<key>hash2</key>
 			<data>
-			rTyJzIxiLIgDp6pPyHJXKVCLRWcWar6mtWA+SrnbSIA=
+			LnfVcRSXNODEnMuL24fRhIcg7+VKB2j4lIvFo3o4wOo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

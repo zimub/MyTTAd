@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'MyTTAd'
-s.version          = '1.1.6'
+s.version          = '1.1.7'
 s.summary          = 'MyTTAd 是一个用于 iOS 应用的广告 SDK，提供开屏广告、横幅广告、插屏广告等功能'
 
 s.description      = <<-DESC
@@ -17,7 +17,7 @@ s.source           = { :git => 'https://github.com/zimub/MyTTAd.git', :tag => s.
 
 s.ios.deployment_target = '13.0'
 
-  # 关键：添加这些配置来强制覆盖所有目标的部署版本
+  # 关键：添加这些配置来强制覆盖所有目标的部署版本 ps: 注释掉应该也可以了之前了尝试解决libarclite报错问题
   s.user_target_xcconfig = {
     'IPHONEOS_DEPLOYMENT_TARGET' => '13.0',
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
@@ -31,7 +31,7 @@ s.swift_versions = ['5.0', '6.0']
 # 使用 xcframework 方式发布
 s.vendored_frameworks = 'MyTTAd.xcframework'
 
-# s.source_files = 'MyTTAd/Classes/**/*'
+ s.source_files = 'MyTTAd/Classes/**/*'
 # 静态框架
 #s.static_framework = true
 
@@ -42,10 +42,10 @@ s.frameworks = 'UIKit','Foundation','AdSupport','CoreMotion','AppTrackingTranspa
 s.libraries = 'c++','bz2','c++abi','resolv.9','sqlite3.0','sqlite3','xml2.2','xml2'
 
 s.dependency 'Alamofire', '~> 5.9.1'
-# s.dependency 'MBProgressHUD', '1.2.0'
-# s.dependency 'BrotliKit', '1.0.2'
+s.dependency 'MBProgressHUD', '1.2.0'
+ s.dependency 'BrotliKit', '1.0.2'
 s.dependency 'AdjustSignature', '3.35.2'
-s.dependency 'Sentry', '1.7.2'
+ s.dependency 'Sentry', '1.7.2'
 s.dependency 'FBSDKCoreKit_Basics', '17.0.0'
 s.dependency 'FBSDKCoreKit', '17.0.0'
 s.dependency 'FirebaseAnalytics', '11.3.0'
@@ -65,7 +65,7 @@ s.dependency 'FirebaseSharedSwift', '11.3.0'
 s.dependency 'ThinkingDataCore', '1.0.2'
 s.dependency 'ThinkingSDK', '3.0.2'
 s.dependency 'GoogleUtilities','8.0.2'
-s.dependency 'TTOpenPass', '2.1.2-swift'
+ s.dependency 'TTOpenPass', '2.1.2-swift'
 
 
 
