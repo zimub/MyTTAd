@@ -1,4 +1,0 @@
-
-module FirebaseCrashlytics.__Swift {
-  exclude header "FirebaseCrashlytics-Swift.h"
-}

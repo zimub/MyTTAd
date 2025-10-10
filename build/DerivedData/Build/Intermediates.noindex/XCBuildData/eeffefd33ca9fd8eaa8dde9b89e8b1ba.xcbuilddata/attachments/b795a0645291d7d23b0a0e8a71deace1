@@ -1,5 +1,0 @@
-
-module MyTTAd.Swift {
-  header "MyTTAd-Swift.h"
-  requires objc
-}

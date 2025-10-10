@@ -1,4 +1,0 @@
-
-module Promises.__Swift {
-  exclude header "Promises-Swift.h"
-}

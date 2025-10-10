@@ -1,5 +1,0 @@
-
-module FirebaseRemoteConfig.Swift {
-  header "FirebaseRemoteConfig-Swift.h"
-  requires objc
-}

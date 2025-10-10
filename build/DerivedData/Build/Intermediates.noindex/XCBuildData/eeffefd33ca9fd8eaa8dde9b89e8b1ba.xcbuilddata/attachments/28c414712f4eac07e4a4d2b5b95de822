@@ -1,5 +1,0 @@
-
-module FirebaseCrashlytics.Swift {
-  header "FirebaseCrashlytics-Swift.h"
-  requires objc
-}

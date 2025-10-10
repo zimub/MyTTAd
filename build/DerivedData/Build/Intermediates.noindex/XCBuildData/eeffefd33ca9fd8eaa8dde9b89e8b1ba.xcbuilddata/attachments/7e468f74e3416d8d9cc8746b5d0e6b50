@@ -1,4 +1,0 @@
-
-module MyTTAd.__Swift {
-  exclude header "MyTTAd-Swift.h"
-}

@@ -1,9 +1,0 @@
-version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
-options: "de8088e4e0221c762a693430584ee6d95bc09eabfc5bcd33ccd9b7aa3a358a57"
-build_start_time: [1760089764, 847884000]
-build_end_time: [1760089782, 965397000]
-inputs:
-  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RemoteConfigConstants.swift": [1759213875, 527920846]
-  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RemoteConfigInterop.swift": [1759213875, 527660971]
-  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RolloutAssignment.swift": [1759213875, 528449679]
-  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RolloutsStateSubscriber.swift": [1759213875, 528300804]
