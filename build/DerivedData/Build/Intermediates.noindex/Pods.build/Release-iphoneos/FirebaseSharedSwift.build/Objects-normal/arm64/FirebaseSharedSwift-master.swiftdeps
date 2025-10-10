@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "7281f621ff9fd6a277aa0304ff6a8b27ac59e320691225a2977980ddf4f93abe"
+build_start_time: [1760089764, 847927000]
+build_end_time: [1760089781, 952832000]
+inputs:
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift": [1759213875, 545346529]
+  ? "/Users/ttwj/MyTTAd/Example/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift"
+  : [1759213875, 545123530]

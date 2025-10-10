@@ -15,13 +15,6 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "SnapKit",
-        "printedName": "SnapKit",
-        "declKind": "Import",
-        "moduleName": "MyTTAd"
-      },
-      {
         "kind": "TypeDecl",
         "name": "AdManager",
         "printedName": "AdManager",
@@ -151,6 +144,27 @@
             "usr": "s:6MyTTAd9AdManagerC15comeOnWriteCodeyyF",
             "mangledName": "$s6MyTTAd9AdManagerC15comeOnWriteCodeyyF",
             "moduleName": "MyTTAd",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nonoIdontKnow",
+            "printedName": "nonoIdontKnow()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6MyTTAd9AdManagerC13nonoIdontKnowyyF",
+            "mangledName": "$s6MyTTAd9AdManagerC13nonoIdontKnowyyF",
+            "moduleName": "MyTTAd",
             "declAttributes": [
               "AccessControl"
             ],
@@ -161,6 +175,7 @@
         "usr": "s:6MyTTAd9AdManagerC",
         "mangledName": "$s6MyTTAd9AdManagerC",
         "moduleName": "MyTTAd",
+        "isOpen": true,
         "declAttributes": [
           "AccessControl"
         ],

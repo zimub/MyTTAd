@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfig.build/module.modulemap \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebasePerformance.build/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Configurations/FPRRemoteConfigFlags.m \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/GoogleUtilities.build/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Configurations/FPRConfigurations+Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Configurations/FPRConfigurations.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Configurations/FPRRemoteConfigFlags.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Configurations/FPRRemoteConfigFlags+Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseRemoteConfig/Sources/Private/FIRRemoteConfig_Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseRemoteConfig/Sources/Private/RCNConfigSettings.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/FPRConsoleLogger.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRLogger.h \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRComponent.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIROptionsInternal.h

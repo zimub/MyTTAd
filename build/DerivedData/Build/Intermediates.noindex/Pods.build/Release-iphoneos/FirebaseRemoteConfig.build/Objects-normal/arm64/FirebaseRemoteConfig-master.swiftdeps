@@ -1,0 +1,12 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "55497081dce02c44d132cfea8049a800fa75cd75ec0cff49cf68554fa828c471"
+build_start_time: [1760089776, 962774000]
+build_end_time: [1760089785, 82685000]
+inputs:
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/Codable.swift": [1759213875, 518180860]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/FirebaseRemoteConfigValueDecoderHelper.swift": [1759213875, 517898277]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigProperty.swift": [1759213875, 518640567]
+  ? "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigValueObservable.swift"
+  : [1759213875, 518513901]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/SPMSwiftHeaderWorkaround.swift": [1759213875, 518316193]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/Value.swift": [1759213875, 518771525]

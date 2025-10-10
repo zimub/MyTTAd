@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebasePerformance.build/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRAppActivityTracker.m \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRAppActivityTracker.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Protogen/nanopb/perf_metric.nanopb.h \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/nanopb.build/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Public/FirebasePerformance/FIRTrace.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Public/FirebasePerformance/FIRPerformanceAttributable.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Network.framework/Modules/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRSessionManager.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRSessionDetails.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Configurations/FPRConfigurations.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/CPU/FPRCPUGaugeCollector+Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/CPU/FPRCPUGaugeCollector.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/CPU/FPRCPUGaugeData.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/FPRGaugeCollector.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/FPRGaugeManager.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/Memory/FPRMemoryGaugeCollector+Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/Memory/FPRMemoryGaugeCollector.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Gauges/Memory/FPRMemoryGaugeData.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Timer/FIRTrace+Internal.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Timer/FPRCounterList.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/FIRPerformance+Internal.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Public/FirebasePerformance/FIRPerformance.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Timer/FIRTrace+Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRTraceBackgroundActivityTracker.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/FPRClient+Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/FPRClient.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/FPRConfiguration.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/FPRNetworkTrace.h

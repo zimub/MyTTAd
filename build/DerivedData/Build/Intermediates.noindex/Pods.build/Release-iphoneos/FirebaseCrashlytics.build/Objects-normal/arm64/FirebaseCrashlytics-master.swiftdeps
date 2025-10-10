@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "65109c292a8d515bf9fe1060741e36c741d1ba97a2d5f253cdff1cfe4b0d1bfe"
+build_start_time: [1760089782, 992497000]
+build_end_time: [1760089790, 338101000]
+inputs:
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Rollouts/CrashlyticsRemoteConfigManager.swift": [1759213875, 342938733]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Rollouts/EncodedRolloutAssignment.swift": [1759213875, 343491940]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Rollouts/StringToHexConverter.swift": [1759213875, 343375148]

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseCrashlytics.build/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/Darwin.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSExistingReportManager.m \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSExistingReportManager.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/TargetConditionals.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSManagerData.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSReportUploader.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/DataCollection/FIRCLSDataCollectionArbiter.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/DataCollection/FIRCLSDataCollectionToken.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSLogger.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSFileManager.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSInternalReport.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSSettings.h \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/PromisesObjC.build/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRCLSOnDemandModel_Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSOnDemandModel.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRCLSExistingReportManager_Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRExceptionModel_Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRExceptionModel.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRStackFrame.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRCrashlyticsReport_Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlyticsReport.h

@@ -1,0 +1,20 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "e510e26457c86279488a74be0cef95ce635b43299107f79d08bb59d7f9c62d36"
+build_start_time: [1760089773, 198331000]
+build_end_time: [1760089784, 875787000]
+inputs:
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": [1759213875, 316267437]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift": [1759213875, 316643520]
+  ? "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1759213875, 316937353]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift": [1759213875, 317100644]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift": [1759213875, 317267186]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift": [1759213875, 317563185]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift": [1759213875, 316385395]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1759213875, 316147354]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift": [1759213875, 317696477]
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift": [1759213875, 317408644]
+  ? "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1759213875, 316513728]
+  ? "/Users/ttwj/MyTTAd/Example/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1759213875, 316775061]

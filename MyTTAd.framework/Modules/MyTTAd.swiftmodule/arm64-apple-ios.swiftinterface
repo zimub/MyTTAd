@@ -4,15 +4,15 @@
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
 import Alamofire
 @_exported import MyTTAd
-import SnapKit
 import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers public class AdManager {
+@_hasMissingDesignatedInitializers open class AdManager {
   nonisolated(unsafe) public static let shared: MyTTAd.AdManager
   public func loadAd(with id: Swift.String, completion: @escaping (Swift.Result<Swift.String, any Swift.Error>) -> Swift.Void)
-  public func comeOnWriteCode()
+  open func comeOnWriteCode()
+  public func nonoIdontKnow()
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ReplaceMe {

@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebasePerformance.build/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/UIKit/FPRUIViewControllerInstrument.m \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/TargetConditionals.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Modules/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRScreenTraceTracker+Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRScreenTraceTracker.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Common/FPRConstants.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Timer/FIRTrace+Internal.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Timer/FPRCounterList.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/AppActivity/FPRSessionDetails.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/FIRPerformance+Internal.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Public/FirebasePerformance/FIRPerformance.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Public/FirebasePerformance/FIRTrace.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Public/FirebasePerformance/FIRPerformanceAttributable.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Common/FPRDiagnostics.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/FPRConsoleLogger.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebaseCore/Extension/FIRLogger.h \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Configurations/FPRConfigurations.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/FPRClassInstrumentor.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/FPRInstrument_Private.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/FPRInstrument.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/FPRSelectorInstrumentor.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/Network/FPRNetworkInstrumentHelpers.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebasePerformance/FirebasePerformance/Sources/Instrumentation/UIKit/FPRUIViewControllerInstrument.h \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/GoogleUtilities.build/module.modulemap

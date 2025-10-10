@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/ttwj/MyTTAd/build/Release-iphoneos/FirebaseSessions/FirebaseSessions.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseSessions.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/ttwj/MyTTAd/build/Release-iphoneos/FirebaseSessions/FirebaseSessions.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "FirebaseSessions-Swift.h",
+      "external-contents": "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseSessions.build/unextended-interface-header.h",
+    }]
+  }]
+}

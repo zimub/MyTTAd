@@ -1,0 +1,30 @@
+{
+  "" : {
+    "const-values" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.swiftconstvalues",
+    "dependencies" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.d",
+    "diagnostics" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.dia",
+    "emit-module-dependencies" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.swiftdeps"
+  },
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RemoteConfigConstants.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigConstants.o",
+    "llvm-bc" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigConstants.bc",
+    "object" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigConstants.o"
+  },
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RemoteConfigInterop.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigInterop.o",
+    "llvm-bc" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigInterop.bc",
+    "object" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigInterop.o"
+  },
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RolloutAssignment.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutAssignment.o",
+    "llvm-bc" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutAssignment.bc",
+    "object" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutAssignment.o"
+  },
+  "/Users/ttwj/MyTTAd/Example/Pods/FirebaseRemoteConfigInterop/FirebaseRemoteConfig/Interop/RolloutsStateSubscriber.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutsStateSubscriber.o",
+    "llvm-bc" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutsStateSubscriber.bc",
+    "object" : "/Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutsStateSubscriber.o"
+  }
+}

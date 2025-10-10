@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/ttwj/MyTTAd/build/DerivedData/Build/Intermediates.noindex/Pods.build/Release-iphoneos/FirebaseCrashlytics.build/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/Darwin.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFile.m \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/c_standard_library.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/DarwinBasic.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/TargetConditionals.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/dispatch.modulemap \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSUtility.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSGlobals.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSContext.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSBinaryImage.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Shared/FIRCLSMachO/FIRCLSMachO.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSHost.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSUserLogging.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSException.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSAllocate.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSInternalLogging.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSLogger.h \
+  /Users/ttwj/MyTTAd/Example/Pods/FirebaseCrashlytics/Crashlytics/Shared/FIRCLSByteUtility.h
