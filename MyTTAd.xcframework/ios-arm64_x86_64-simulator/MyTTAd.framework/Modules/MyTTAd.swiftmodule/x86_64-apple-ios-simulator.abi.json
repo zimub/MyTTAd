@@ -6,106 +6,6 @@
     "children": [
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "MyTTAd",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Alamofire",
-        "printedName": "Alamofire",
-        "declKind": "Import",
-        "moduleName": "MyTTAd"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "NetWorkManager",
-        "printedName": "NetWorkManager",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "shared",
-            "printedName": "shared",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "NetWorkManager",
-                "printedName": "MyTTAd.NetWorkManager",
-                "usr": "s:6MyTTAd14NetWorkManagerC"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:6MyTTAd14NetWorkManagerC6sharedACvpZ",
-            "mangledName": "$s6MyTTAd14NetWorkManagerC6sharedACvpZ",
-            "moduleName": "MyTTAd",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl",
-              "Nonisolated"
-            ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "NetWorkManager",
-                    "printedName": "MyTTAd.NetWorkManager",
-                    "usr": "s:6MyTTAd14NetWorkManagerC"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:6MyTTAd14NetWorkManagerC6sharedACvgZ",
-                "mangledName": "$s6MyTTAd14NetWorkManagerC6sharedACvgZ",
-                "moduleName": "MyTTAd",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:6MyTTAd14NetWorkManagerC",
-        "mangledName": "$s6MyTTAd14NetWorkManagerC",
-        "moduleName": "MyTTAd",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Alamofire",
         "printedName": "Alamofire",
         "declKind": "Import",
@@ -316,6 +216,106 @@
         "mangledName": "$s6MyTTAd9AdManagerC",
         "moduleName": "MyTTAd",
         "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTTAd",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "MyTTAd"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NetWorkManager",
+        "printedName": "NetWorkManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NetWorkManager",
+                "printedName": "MyTTAd.NetWorkManager",
+                "usr": "s:6MyTTAd14NetWorkManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6MyTTAd14NetWorkManagerC6sharedACvpZ",
+            "mangledName": "$s6MyTTAd14NetWorkManagerC6sharedACvpZ",
+            "moduleName": "MyTTAd",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "Nonisolated"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NetWorkManager",
+                    "printedName": "MyTTAd.NetWorkManager",
+                    "usr": "s:6MyTTAd14NetWorkManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6MyTTAd14NetWorkManagerC6sharedACvgZ",
+                "mangledName": "$s6MyTTAd14NetWorkManagerC6sharedACvgZ",
+                "moduleName": "MyTTAd",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:6MyTTAd14NetWorkManagerC",
+        "mangledName": "$s6MyTTAd14NetWorkManagerC",
+        "moduleName": "MyTTAd",
         "declAttributes": [
           "AccessControl"
         ],
