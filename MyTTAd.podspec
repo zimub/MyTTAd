@@ -29,9 +29,9 @@ s.ios.deployment_target = '13.0'
 s.swift_versions = ['5.0', '6.0']
 
 # 使用 xcframework 方式发布
-#s.vendored_frameworks = 'MyTTAd.framework'
+s.vendored_frameworks = 'MyTTAd.framework'
 
- s.source_files = 'MyTTAd/Classes/**/*'
+# s.source_files = 'MyTTAd/Classes/**/*'
 # 静态框架
 s.static_framework = false
 
