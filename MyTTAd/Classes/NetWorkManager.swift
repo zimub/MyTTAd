@@ -10,7 +10,7 @@ import Alamofire
 public class NetWorkManager {
     nonisolated(unsafe) public static let shared = NetWorkManager()
     private init() {}
-    func getRequest() {
+    public func getRequest() {
         AF.request("https://jsonplaceholder.typicode.com/posts").responseJSON { response in
             switch response.result {
             case .success(let value):

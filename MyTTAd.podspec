@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'MyTTAd'
-s.version          = '2.0.2'
+s.version          = '2.0.3'
 s.summary          = 'MyTTAd 是一个用于 iOS 应用的广告 SDK，提供开屏广告、横幅广告、插屏广告等功能'
 
 s.description      = <<-DESC
@@ -33,7 +33,7 @@ s.vendored_frameworks = 'MyTTAd.xcframework'
 
 # s.source_files = 'MyTTAd/Classes/**/*'
 # 静态框架
-s.static_framework = false
+s.static_framework = true
 
 # 系统框架依赖
 #  s.frameworks = 'UIKit', 'Foundation', 'CoreGraphics', 'AdSupport', 'CoreTelephony', 'SystemConfiguration'
