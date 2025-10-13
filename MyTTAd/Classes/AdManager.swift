@@ -39,6 +39,6 @@ open class AdManager {
     }
     
     public func hello3qu() {
-        print("你好世界)
+        print("你好世界")
     }
 }
