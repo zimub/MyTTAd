@@ -7,7 +7,7 @@
 
 import UIKit
 import Alamofire
-internal class NetWorkManager {
+public class NetWorkManager {
     nonisolated(unsafe) public static let shared = NetWorkManager()
     private init() {}
     func getRequest() {

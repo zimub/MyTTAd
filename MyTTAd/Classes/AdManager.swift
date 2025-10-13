@@ -37,4 +37,8 @@ open class AdManager {
     public func getResponse() {
         NetWorkManager.shared.getRequest()
     }
+    
+    public func hello3qu() {
+        print("你好世界)
+    }
 }
