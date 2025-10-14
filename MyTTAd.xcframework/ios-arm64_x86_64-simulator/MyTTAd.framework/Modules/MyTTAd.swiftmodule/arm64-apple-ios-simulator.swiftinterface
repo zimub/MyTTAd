@@ -20,6 +20,7 @@ import _SwiftConcurrencyShims
 }
 @_hasMissingDesignatedInitializers public class NetWorkManager {
   nonisolated(unsafe) public static let shared: MyTTAd.NetWorkManager
+  public func getRequest()
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ReplaceMe {

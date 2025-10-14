@@ -310,6 +310,26 @@
                 "accessorKind": "get"
               }
             ]
+          },
+          {
+            "kind": "Function",
+            "name": "getRequest",
+            "printedName": "getRequest()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6MyTTAd14NetWorkManagerC10getRequestyyF",
+            "mangledName": "$s6MyTTAd14NetWorkManagerC10getRequestyyF",
+            "moduleName": "MyTTAd",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
