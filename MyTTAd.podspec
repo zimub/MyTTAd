@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'MyTTAd'
-s.version          = '2.0.3'
+s.version          = '2.0.4'
 s.summary          = 'MyTTAd 是一个用于 iOS 应用的广告 SDK，提供开屏广告、横幅广告、插屏广告等功能'
 
 s.description      = <<-DESC
@@ -29,7 +29,11 @@ s.ios.deployment_target = '13.0'
 s.swift_versions = ['5.0', '6.0']
 
 # 使用 xcframework 方式发布
-s.vendored_frameworks = 'MyTTAd.xcframework'
+#s.vendored_frameworks = 'MyTTAd.xcframework'
+s.vendored_frameworks = [
+  "MyTTAd/Frameworks/MyTTAd.xcframework",
+  "MyTTAd/Frameworks/Alamofire.framework"  # 静态版本
+]
 
 # s.source_files = 'MyTTAd/Classes/**/*'
 # 静态框架
